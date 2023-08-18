@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/notfakeabner?igshid=MzNlNGNkZWQ4Mg==)
 [![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abner-ferreira-613845250/)
 
-![AbnerZx GitHub stats](https://github-readme-stats.vercel.app/api?username=AbnerZx&show_icons=true&theme=radical)
+![AbnerZx GitHub stats](https://github-readme-stats.vercel.app/api?username=AbnerZx&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que estou aprendendo
 
